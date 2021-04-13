@@ -1,0 +1,51 @@
+body {
+	text-align: center;
+	font-family: verdana;
+	background-image: url(images/clouds.jpg);
+	color: blue;
+	background-size: cover;
+
+}
+
+h1 {
+	color: #000080;
+	font-size: 70px;
+	padding-top: 100px;
+	text-shadow: 2px 2px 2px gray;
+}
+
+h2 {
+	color: #4682B4;
+	font-size: 55px;
+	text-shadow: 2px 2px 2px gray;
+	margin-bottom: 50px;
+
+}
+
+p {
+	color: 	#D2691E;
+	font-size: 20px;
+	opacity: 0.9;
+
+}
+
+a {
+	color: #D8BFD8;
+	text-decoration: none;
+	font-size: 20px;
+	padding: 8px 15px 8px 15px;
+	background: #FFE4E1;
+	border-radius: 6px;
+	opacity: 0.95;
+	
+
+}
+
+	a:hover {
+	background: #FFF0F5;
+	}
+
+footer {
+	height: 100px;
+
+}
